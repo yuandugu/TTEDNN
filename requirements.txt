@@ -1,0 +1,13 @@
+h5py==2.15.0
+Keras==2.4.3
+Keras-Preprocessing==1.1.2
+matplotlib==3.3.2
+mpi4py==3.0.3
+numpy==1.18.5
+scikit-learn==0.23.2
+scipy==1.5.2
+sklearn==0.0
+spektral==0.6.2
+tensorflow==2.3.1
+tensorflow-addons==0.12.1
+tensorflow-estimator==2.3.0
