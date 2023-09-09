@@ -2,6 +2,7 @@
 
 This is a demo for power system rotor angle stability prediction using
 TTEDNN based on the work (https://ieeexplore.ieee.org/document/10234142).
+Details will be released soon.
 
   * [TTEDNN for Rotor Angle Stability Prediction](#title)
       * [Prerequisites](#requist)
